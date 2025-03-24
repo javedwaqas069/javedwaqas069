@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Muhammad Waqas<br><br>🔭 I’m currently working on Web-Apps for Bioinformatics, AI and ML for Bioinformatics, Streamlit, Command Line Bioinformatics, Data Science, Computational Biology, Python, R, Metabolomics, Pipeline Designing, Single Cell Genomics, and Plant Phenotyping.<br><br>🤝 I’m looking to collaborate on Application development in Bioinformatics using AI and ML and Bioinformatics Pipeline Designing.<br><br>🌱 I’m currently learning Advanced AI techniques for biological data, Cloud computing for bioinformatics, and Scalable data analysis pipelines.<br><br>💬 Ask me about Bioinformatics workflows, AI in biology, Python for bioinformatics, Machine Learning models for genomic data, and R for data analysis.<br><br>⚡ Fun fact: I'm always amazed at how AI and computational methods can unlock the secrets of biological systems, helping us understand life at a whole new level!<br><br>📫 How to reach me | Mail: 
-
+👋 Hi, I'm Muhammad Waqas<br><br>🔭 I specialize in developing Machine Learning (ML) tools for Computational Medicinal Chemistry, Biological Data Analysis, and Bioinformatics software development, with expertise in Data Science, Computational Biology, Python, and R..<br><br> I’m currently learning Advanced AI techniques for biological data, Cloud computing for bioinformatics, and Scalable data analysis pipelines.<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-waqas-8659261b3) 
