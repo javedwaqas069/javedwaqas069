@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I'm Muhammad Waqas<br><br>🔭 I specialize in developing Machine Learning (ML) tools for Computational Medicinal Chemistry, Biological Data Analysis, and Bioinformatics software development, with expertise in Data Science, Computational Biology, Python, and R..<br><br> I’m currently learning Advanced AI techniques for biological data, Cloud computing for bioinformatics, and Scalable data analysis pipelines.<br><br>
+# About Me:
+Hi, I'm Muhammad Waqas<br><br>🔭 I specialize in developing Machine Learning (ML) tools for Computational Medicinal Chemistry, Biological Data Analysis, and Bioinformatics software development, with expertise in Data Science, Computational Biology, Python, and R..<br><br> I’m currently learning Advanced AI techniques for biological data, Cloud computing for bioinformatics, and Scalable data analysis pipelines.<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-waqas-8659261b3) 
