@@ -29,7 +29,7 @@ I am a PhD Researcher in Computational Medicinal Chemistry at the University of 
 | **Translational Vision:** Oncology and neurodegenerative disorders. | **Scale:** High-throughput processing of ultra-large chemical databases. |
 
 <details>
-<summary><b>Click to view Academic Highlights (18 Peer-Reviewed Publications)</b></summary>
+<summary><b>Click to view Academic Highlights (Selected Publications)</b></summary>
 <br>
 <i>Selected recent contributions:</i>
 <ul>
