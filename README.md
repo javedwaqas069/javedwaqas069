@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <b>I deal in drugs</b> (computationally, of course) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>I work with models</b> (the Machine Learning kind)
+    <b>I deal in drugs</b> (computationally, of course)       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        <b>I work with models</b> (the Machine Learning kind)
   </p>
   
   <br>
