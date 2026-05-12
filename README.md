@@ -1,8 +1,9 @@
 <div align="center">
-  <img align="left" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=13&pause=3000&color=3670A0&width=400&repeat=false&lines=I+deal+in+drugs+(computationally,+of+course+%F0%9F%92%8A)" alt="Drugs Quote" />
-  <img align="right" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=13&pause=3000&color=3670A0&width=450&repeat=false&lines=I+work+with+models+(the+Machine+Learning+kind+%F0%9F%A4%96)" alt="Models Quote" />
+  <p>
+    <b>I deal in drugs</b> (computationally, of course) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>I work with models</b> (the Machine Learning kind)
+  </p>
   
-  <br><br>
+  <br>
   
   <h1>Hi there, I'm Muhammad Waqas</h1>
   
@@ -12,10 +13,12 @@
 
   <br clear="both"><br>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-waqas-8659261b3)
-  [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](#) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Muhammad-Waqas-92)
+  <a href="https://linkedin.com/in/muhammad-waqas-8659261b3"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a> <a href="https://www.researchgate.net/profile/Muhammad-Waqas-92"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate"></a>
 </div>
-
+  
+  <br><br>
+  
 ---
 
 ## Executive Summary
@@ -87,6 +90,6 @@ I am a PhD Researcher in Computational Medicinal Chemistry at the University of 
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=16&pause=3000&color=555555&center=true&vCenter=true&width=800&lines=AI+is+the+new+microscope+for+biology.;Code+is+the+modern+laboratory.;Drugs+are+designed,+not+just+discovered.;Predicting+molecular+futures+with+machine+learning.;Bridging+data+science+and+medicinal+chemistry.;Engineering+proteins,+one+algorithm+at+a+time." alt="Scientific Quotes" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=16&pause=3000&color=555555&center=true&vCenter=true&width=800&lines=AI+is+the+new+microscope+for+biology.;Coding+is+the+modern+laboratory.;Drugs+are+also+designed,+not+just+discovered.;Predicting+molecular+futures+with+machine+learning.;Bridging+data+science+and+medicinal+chemistry.;Engineering+proteins,+one+algorithm+at+a+time." alt="Scientific Quotes" />
   </a>
 </div>
