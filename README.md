@@ -1,6 +1,6 @@
 <div align="center">
-  <img align="left" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=13&pause=3000&color=3670A0&width=400&lines=I+deal+in+drugs+(computationally,+of+course+%F0%9F%92%8A)" alt="Drugs Quote" />
-  <img align="right" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=13&pause=3000&color=3670A0&width=450&lines=I+work+with+models+(the+Machine+Learning+kind+%F0%9F%A4%96)" alt="Models Quote" />
+  <img align="left" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=13&pause=3000&color=3670A0&width=400&repeat=false&lines=I+deal+in+drugs+(computationally,+of+course+%F0%9F%92%8A)" alt="Drugs Quote" />
+  <img align="right" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=13&pause=3000&color=3670A0&width=450&repeat=false&lines=I+work+with+models+(the+Machine+Learning+kind+%F0%9F%A4%96)" alt="Models Quote" />
   
   <br><br>
   
