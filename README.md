@@ -31,6 +31,16 @@ GUI suite for AI-powered virtual screening that combines PyRMD (ligand-based) an
 
 Both tools are developed within the Cosconati lab and hosted on the lab's GitHub.
 
+Two smaller packages I maintain on my own, built from problems that kept coming up in screening campaigns:
+
+**[vs-analysis](https://github.com/javedwaqas069/vs-analysis)**
+
+Post-processing for virtual screening output. Joins docking results to structures in constant memory, selects hits by threshold or top N, and reports ROC AUC, BEDROC and enrichment factors with publication-ready figures.
+
+**[chembl-curate](https://github.com/javedwaqas069/chembl-curate)**
+
+Turns raw ChEMBL activity records into model-ready datasets. Unit conversion, pActivity, per-compound aggregation, RDKit structure standardization and class labeling, with a log of what every filtering step removed.
+
 ### Selected publications
 
 - Waqas M, Natale B, Roggia M, Saha PP, Mileni M, Cosconati S. StabLyzeGraph: High-throughput screening of combinatorial mutations using graph neural networks. *Protein Science* 2026. [doi:10.1002/pro.70534](https://doi.org/10.1002/pro.70534)
