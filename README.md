@@ -1,95 +1,51 @@
-<div align="center">
-  <p>
-    <b>I deal in drugs</b> (computationally, of course)       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        <b>I work with models</b> (the Machine Learning kind)
-  </p>
-  
-  <br>
-  
-  <h1>Hi there, I'm Muhammad Waqas</h1>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3670A0&center=true&vCenter=true&width=600&lines=Computational+Medicinal+Chemist;Deep+Learning+%26+ML+Engineer;Bioinformatics+Software+Developer" alt="Typing SVG" />
-  </a>
+## Hi, I'm Muhammad Waqas
 
-  <br clear="both"><br>
+I am a computational medicinal chemist. I build machine learning tools for drug discovery and protein engineering, and I like turning methods into software that other scientists can actually use without writing code.
 
-  <a href="https://linkedin.com/in/muhammad-waqas-8659261b3"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a> <a href="https://www.researchgate.net/profile/Muhammad-Waqas-92"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate"></a>
-</div>
-  
-  <br><br>
-  
----
+I am a postdoctoral researcher in the [AI-Driven Drug Discovery Group](https://vhio.net) at the Vall d'Hebron Institute of Oncology (VHIO) in Barcelona. I did my PhD in the Cosconati lab at the University of Campania Luigi Vanvitelli, Italy.
 
-## Executive Summary
+[LinkedIn](https://www.linkedin.com/in/muhammad-waqas-8659261b3/) · [Google Scholar](https://scholar.google.com/citations?user=IL-IPWcAAAAJ) · [ORCID](https://orcid.org/0000-0003-0781-4659) · [ResearchGate](https://www.researchgate.net/profile/Muhammad-Waqas-92)
 
-I am a PhD Researcher in Computational Medicinal Chemistry at the University of Campania, currently advancing my research as a Visiting Researcher at the Vall d'Hebron Institute of Oncology (VHIO) in Barcelona. I specialize in bridging the gap between advanced Machine Learning, Software Engineering, and Chemoinformatics to build robust pipelines for high-throughput virtual screening on ultra-large databases.
+### What I work on
 
-| Core Research Focus | Technical Execution |
-| :--- | :--- |
-| **Chemoinformatics:** Structure-based & ligand-based virtual screening, multi-target drug design. | **Bioinformatics Software:** Building cross-platform GUIs with optimized, vectorized architectures. |
-| **Protein Engineering:** ML models to evaluate protein stability and combinatorial mutations. | **Deep Learning:** Designing Graph Neural Networks (GNNs) for predictive molecular modeling. |
-| **Translational Vision:** Oncology and neurodegenerative disorders. | **Scale:** High-throughput processing of ultra-large chemical databases. |
+- Graph neural networks for predicting protein stability across combinatorial mutations
+- AI-accelerated ligand-based and structure-based virtual screening of very large compound libraries
+- Multi-target drug design, mainly for oncology
+- Desktop GUIs that package these workflows for bench scientists
 
-<details>
-<summary><b>Click to view Academic Highlights (Selected Publications)</b></summary>
-<br>
-<i>Selected recent contributions:</i>
-<ul>
-  <li><b>Protein Science (2026):</b> <i>StabLyzeGraph: High-throughput screening of combinatorial mutations using graph neural networks.</i></li>
-  <li><b>Eur J Med Chem (2025):</b> <i>Identification of constrained peptidomimetics carrying a Michael acceptor warhead as antitrypanosomal agents.</i></li>
-  <li><b>ACS Chem Neurosci (2025):</b> <i>Discovery of First-in-Class Dual TSPO/Carbonic Anhydrase Modulators with Promising Neurotrophic Activity.</i></li>
-</ul>
-</details>
+### Software I built
 
----
+**[StabLyzeGraph](https://github.com/cosconatilab/StabLyzeGraph)**
 
-## Featured Architecture & Platforms
+GNN framework for high-throughput screening of combinatorial protein mutations. Proteins are represented as graphs that combine physicochemical, evolutionary and 3D structural features. It runs in two modes, benchmarking (model tuning) and screening (mutant library generation and ranking), with a PyQt6 interface for Linux and Windows.
 
-| Platform Name | Description & Impact |
-| :--- | :--- |
-| **StabLyzeGraph** | A published GNN-based platform for high-throughput protein stability screening of combinatorial mutations. |
-| **PyRMD Studio** | A unified, dual-mode GUI platform for AI-powered virtual screening. Achieved a **3.3-fold reduction in calculation time** via vectorized linear algebra. Integrates Butina clustering and StratifiedGroupKFold cross-validation to strictly prevent data leakage. |
+- Stack: Python · PyTorch · PyTorch Geometric · Biopython · PyQt6
+- Paper: [Protein Science 2026, 35(4), e70534](https://doi.org/10.1002/pro.70534)
 
----
+**[PyRMD Studio](https://github.com/cosconatilab/PyRMD-Studio)**
 
-## Technical Arsenal
+GUI suite for AI-powered virtual screening that combines PyRMD (ligand-based) and PyRMD2Dock (structure-based, with AutoDock-GPU) in one application. Vectorizing the core code made screening about 3.3 times faster than the previous release, and Butina clustering with grouped cross-validation keeps similar compounds out of both training and test sets.
 
-### Chemoinformatics & Structural Biology
-[![RDKit](https://img.shields.io/badge/RDKit-55A3C8?style=for-the-badge&logo=python&logoColor=white)](https://www.rdkit.org/)
-[![BioPython](https://img.shields.io/badge/BioPython-85A900?style=for-the-badge&logo=python&logoColor=white)](https://biopython.org/)
-[![OpenBabel](https://img.shields.io/badge/OpenBabel-004A80?style=for-the-badge&logo=linux&logoColor=white)](http://openbabel.org/)
-[![PyMOL](https://img.shields.io/badge/PyMOL-236A95?style=for-the-badge&logo=molecule&logoColor=white)](https://pymol.org/)
-[![AutoDock](https://img.shields.io/badge/AutoDock-B00020?style=for-the-badge&logo=dna&logoColor=white)](https://autodock.scripps.edu/)
-[![Schrödinger Suite](https://img.shields.io/badge/Schrödinger_Suite-00519E?style=for-the-badge)](https://www.schrodinger.com/)
-[![ChimeraX](https://img.shields.io/badge/ChimeraX-4A235A?style=for-the-badge)](https://www.cgl.ucsf.edu/chimerax/)
+- Stack: Python · RDKit · scikit-learn · NumPy · PyQt5
+- Paper: [J. Chem. Inf. Model. 2026, 66(11), 6197-6203](https://doi.org/10.1021/acs.jcim.6c00648)
 
-### Deep Learning & Machine Learning
-[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
-[![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Optuna](https://img.shields.io/badge/Optuna-3362E3?style=for-the-badge&logo=python&logoColor=white)](https://optuna.org/)
+Both tools are developed within the Cosconati lab and hosted on the lab's GitHub.
 
-### Programming, Scripting & Data Science
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
-[![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+### Selected publications
 
-### High-Performance Computing, DevOps & Development
-[![SLURM](https://img.shields.io/badge/SLURM-2B5C84?style=for-the-badge&logo=linux&logoColor=white)](https://slurm.schedmd.com/)
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)](https://airflow.apache.org/)
-[![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)](https://mlflow.org/)
-[![PyQt5](https://img.shields.io/badge/PyQt5-%2341CD52.svg?style=for-the-badge&logo=qt&logoColor=white)](https://riverbankcomputing.com/software/pyqt/)
+- Waqas M, Natale B, Roggia M, Saha PP, Mileni M, Cosconati S. StabLyzeGraph: High-throughput screening of combinatorial mutations using graph neural networks. *Protein Science* 2026. [doi:10.1002/pro.70534](https://doi.org/10.1002/pro.70534)
+- Natale B, Waqas M, Roggia M, Di Maro S, Cosconati S. PyRMD Studio: A unified suite for next-generation, AI-powered virtual screening. *J. Chem. Inf. Model.* 2026. [doi:10.1021/acs.jcim.6c00648](https://doi.org/10.1021/acs.jcim.6c00648)
+- Poggetti V, et al. Discovery of the first-in-class dual TSPO/carbonic anhydrase modulators with promising neurotrophic activity. *ACS Chem. Neurosci.* 2025. [doi:10.1021/acschemneuro.4c00477](https://doi.org/10.1021/acschemneuro.4c00477)
 
----
+Full list of 18 papers on [Google Scholar](https://scholar.google.com/citations?user=IL-IPWcAAAAJ).
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=16&pause=3000&color=555555&center=true&vCenter=true&width=800&lines=AI+is+the+new+microscope+for+biology.;Coding+is+the+modern+laboratory.;Drugs+are+also+designed,+not+just+discovered.;Predicting+molecular+futures+with+machine+learning.;Bridging+data+science+and+medicinal+chemistry.;Engineering+proteins,+one+algorithm+at+a+time." alt="Scientific Quotes" />
-  </a>
-</div>
+### Tools I use
+
+- **Cheminformatics and structure:** RDKit, Open Babel, Biopython, AutoDock-GPU, Schrödinger Suite, PyMOL, ChimeraX
+- **Machine learning:** PyTorch, PyTorch Geometric, scikit-learn
+- **Programming and data:** Python, R, Bash, pandas, NumPy, SciPy, Matplotlib
+- **Software and compute:** PyQt5/6, Git, SLURM
+
+### Get in touch
+
+I am happy to talk about collaborations in AI for drug discovery, protein engineering or virtual screening. The quickest way to reach me is [LinkedIn](https://www.linkedin.com/in/muhammad-waqas-8659261b3/) or email at [muhammadwaqas@vhio.net](mailto:muhammadwaqas@vhio.net).
